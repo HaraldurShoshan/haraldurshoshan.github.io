@@ -1,3 +1,7 @@
+body {
+    background-color: #585858;
+}
+
 .navbarCss{ 
   border-radius: 0px;
   margin-bottom: 0px;
@@ -5,7 +9,7 @@
 
 .test{
   height: 30px;
-  background-color: tomato;
+  
   /*border-right: 1px solid black;*/
   border-top: 1px solid black;
   border-bottom: 1px solid black;
@@ -20,4 +24,27 @@
     color: white;
     padding-top: 8px;
 }
+
+
+.picture{
+  height: 300px;
+  margin-top: 50px;
+  
+}
+
+.img{
+  height: 300px;
+
+}
+
+.tmb{
+  background-color: grey;
+  border: 0px;
+}
+
+.halliBass p{
+  color: #222222;
+  text-align: center;
+}
+
 
